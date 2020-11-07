@@ -1,0 +1,31 @@
+adivina_el_numero.py
+archivo.txt
+break_continue.py
+bucles.py
+condicionales.py
+conversol.py
+diccionarios.py
+for.py
+funciones.py
+genrador_contracena.py
+palindromo.py
+prueba_primalidad.py
+README.md
+recorrer.py
+reto_break_C.py
+total 24
+-rw-r--r-- 1 skell 197609  488 Nov  2 22:02 adivina_el_numero.py
+-rw-r--r-- 1 skell 197609  223 Nov  2 22:27 archivo.txt
+-rw-r--r-- 1 skell 197609  441 Nov  2 22:02 break_continue.py
+-rw-r--r-- 1 skell 197609  313 Nov  2 22:02 bucles.py
+-rw-r--r-- 1 skell 197609  308 Oct 28 21:01 condicionales.py
+-rw-r--r-- 1 skell 197609 1039 Oct 28 21:32 conversol.py
+-rw-r--r-- 1 skell 197609  642 Nov  1 00:25 diccionarios.py
+-rw-r--r-- 1 skell 197609   94 Nov  2 22:02 for.py
+-rw-r--r-- 1 skell 197609  550 Oct 29 23:08 funciones.py
+-rw-r--r-- 1 skell 197609  763 Nov  1 09:40 genrador_contracena.py
+-rw-r--r-- 1 skell 197609  483 Nov  2 22:02 palindromo.py
+-rw-r--r-- 1 skell 197609  505 Nov  2 22:02 prueba_primalidad.py
+-rw-r--r-- 1 skell 197609   51 Nov  2 22:02 README.md
+-rw-r--r-- 1 skell 197609  259 Nov  2 22:02 recorrer.py
+-rw-r--r-- 1 skell 197609  300 Nov  2 22:02 reto_break_C.py
